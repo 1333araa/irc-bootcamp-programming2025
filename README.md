@@ -1,7 +1,12 @@
 # irc-bootcamp-programming2025
+
 Nama: Azahra Salsabila 
+
 NIM : M0403241047 
+
 Departemen: Ilmu Komputer 61 
+
+
 
 # Resume Bootcamp IRC 2025
 
@@ -12,7 +17,7 @@ Bootcamp ini mengajak kami menjelajahi dunia pemrograman robotika melalui Arduin
 
 > ⚙ "Dari nol sampai nyala LED, dari skrip Python hingga servo bergerak!"
 
------
+
 
 
 
@@ -26,6 +31,8 @@ Divisi ini adalah "otak" dari setiap robot:
 
 🧩 Membuat keputusan otomatis dengan algoritma
 
+
+----
 
 2. Embedded System 💻📦
 
@@ -41,6 +48,8 @@ STM32
 Raspberry Pi	
 - Komputer mini dengan OS (Linux)	Cocok untuk aplikasi berat
 
+
+----
 
 3. Toolchain Programming 🛠💡
    
@@ -62,9 +71,14 @@ Roboflow
 Google Colab
 - Jalankan Python langsung dari browser
 
+  
+
 
 
 > 🧰 "Pilih alat sesuai kebutuhan, bukan tren semata."
+
+
+---
 
 
 4. Dasar-Dasar Pemrograman ⌨
@@ -83,6 +97,9 @@ Flowchart & Pseudocode: alur logika visual
 Control Statements: if, for, while
 
 
+
+----
+
 5. Git & GitHub 🌐🗃
 
 Versi kontrol dengan Git:
@@ -95,6 +112,8 @@ git push, git pull, git clone
 GitHub untuk kolaborasi dan dokumentasi dengan README.md (Markdown).
 
 
+
+-----
 
 
 Bootcamp ini menjadi langkah awal yang seru dan membakar semangat belajar!
