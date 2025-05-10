@@ -13,6 +13,9 @@ Bootcamp ini mengajak kami menjelajahi dunia pemrograman robotika melalui Arduin
 > ⚙ "Dari nol sampai nyala LED, dari skrip Python hingga servo bergerak!"
 
 -----
+
+
+
 1. Divisi Pemrograman IRC 🧠🤖
 
 Divisi ini adalah "otak" dari setiap robot:
@@ -28,10 +31,13 @@ Divisi ini adalah "otak" dari setiap robot:
 
 Arduino Uno	Kontrol LED
 - sensor sederhana	Cocok untuk pemula
+  
 ESP32	
 - Mirip Arduino tapi ada Wi-Fi & BT	Dipakai dalam bootcamp ini
+  
 STM32	
 - Performa tinggi, low-power	Dipakai untuk proyek industri
+  
 Raspberry Pi	
 - Komputer mini dengan OS (Linux)	Cocok untuk aplikasi berat
 
@@ -40,14 +46,19 @@ Raspberry Pi
    
 Arduino IDE
 - Menulis & mengunggah program ke board Arduino
+  
 VSCode
 - Editor kode ringan & fleksibel, bisa pakai PlatformIO
+  
 PyCharm	Editor
 - khusus Python yang powerful
+  
 PlatformIO
 - Plugin di VSCode untuk manajemen proyek embedded
+  
 Roboflow
 - Untuk pengolahan dataset visual (AI/robotika)
+  
 Google Colab
 - Jalankan Python langsung dari browser
 
