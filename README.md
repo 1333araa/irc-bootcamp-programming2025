@@ -12,7 +12,7 @@ Bootcamp ini mengajak kami menjelajahi dunia pemrograman robotika melalui Arduin
 
 > ⚙ "Dari nol sampai nyala LED, dari skrip Python hingga servo bergerak!"
 
-
+-----
 1. Divisi Pemrograman IRC 🧠🤖
 
 Divisi ini adalah "otak" dari setiap robot:
